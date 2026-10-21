@@ -14,15 +14,15 @@
 
 ### 1. Ảnh màn hình Giao diện chính
 
-![Giao diện chính](./BaiTap4.6-4.7-4.8/sreenshots/UI1.png)
-![Giao diện chính](./BaiTap4.6-4.7-4.8/sreenshots/UI2.png)
+![Giao diện chính](./BaiTap4.6-4.7-4.8/screenshots/UI1.png)
+![Giao diện chính](./BaiTap4.6-4.7-4.8/screenshots/UI2.png)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
 
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result1.png)
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result2.png)
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result3.png)
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result4.png)
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result5.png)
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result6.png)
-! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/sreenshots/Result7.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result1.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result2.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result3.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result4.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result5.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result6.png)
+! [Thực thi chức năng](./BaiTap4.6-4.7-4.8/screenshots/Result7.png)
